@@ -1,0 +1,1 @@
+# Magda-projekt-UMG
