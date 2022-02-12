@@ -147,5 +147,7 @@ void loop() {
     updateBuzzer();
 }
 ```
-* #### ZDJĘCIA:
-![This is an image]
+* #### ZDJĘCIA:![273601549_330752928964446_7748200696945832931_n](https://user-images.githubusercontent.com/93925076/153702277-0b1e58ad-cbe7-4c79-9577-393414a697af.jpg)
+![273467099_681645916194979_4226417019899183250_n](https://user-images.githubusercontent.com/93925076/153702279-89805168-4551-49c8-9bdd-c69f54709e8e.jpg)
+![273498171_502454937880869_8162977263246637780_n](https://user-images.githubusercontent.com/93925076/153702281-17c42f5e-e1da-4afe-8c21-8902c0a33207.jpg)
+
